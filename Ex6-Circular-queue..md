@@ -17,11 +17,7 @@ operation ((front + 1) % SIZE).
 
 ## Program:
 ```
-/*
-Program to delete three elements from the filled circular queue
-Developed by: Arshitha MS
-RegisterNumber: 212223240015 
-*/
+
 /*#include<stdio.h>
 #define SIZE 5
 int items[SIZE];
