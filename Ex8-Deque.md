@@ -15,10 +15,7 @@ To write a C function to count the number of elements present in the deque.
 
 ## Program:
 ```
-/*
-Program to count the number of elements present in the deque
 
-*/
 /*#include <stdio.h>
 #define MAX 10
 void addFront(int *, int, int *, int *);
